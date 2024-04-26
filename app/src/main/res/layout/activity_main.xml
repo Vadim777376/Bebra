@@ -14,15 +14,6 @@
 
 
 
-    <EditText
-        android:id="@+id/editTextTextEmailAddress"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textEmailAddress"
-        android:hint="@string/app_name"
-        android:autofillHints="emailAddress"
-        />
 
     <EditText
         android:id="@+id/editTextNumberPassword"
