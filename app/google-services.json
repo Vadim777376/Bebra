@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304843219799",
+    "project_id": "vadim-1d6ab",
+    "storage_bucket": "vadim-1d6ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304843219799:android:7359aaf65e2bef16a59412",
+        "android_client_info": {
+          "package_name": "com.shaga.vadim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqvLxVBPl0kRygZXT1d_1ClzN55c9rp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
